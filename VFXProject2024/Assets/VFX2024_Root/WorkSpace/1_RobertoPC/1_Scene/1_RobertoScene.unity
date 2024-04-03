@@ -14874,7 +14874,7 @@ GameObject:
   - component: {fileID: 2070058499}
   - component: {fileID: 2070058498}
   m_Layer: 0
-  m_Name: PS_Parent
+  m_Name: PS_Parent_Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
